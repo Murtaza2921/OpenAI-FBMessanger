@@ -1,0 +1,20 @@
+{
+  "files": {
+    "helper/openaiApi.js": [
+      {
+        "id": "473bdc9c-fe11-4e98-8350-d05d66c6978b",
+        "line": 8,
+        "version": 69,
+        "index": 169
+      }
+    ],
+    "routes/fbWebhookRoute.js": [
+      {
+        "id": "265cda37-1afb-4d84-ad0c-54808b0cfe85",
+        "line": 25,
+        "version": 44,
+        "index": 701
+      }
+    ]
+  }
+}
